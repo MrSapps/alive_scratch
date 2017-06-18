@@ -4,12 +4,12 @@ Hey! This is Director Phleg.
 
 2
 00:00:07,024 --> 00:00:07,973
-Yes Sir!
+Yes, sir!
 
 
 3
 00:00:07,973 --> 00:00:10,785
-Disengage Operation "Lightning Bolt"!
+Disengage Operation "Lightning Bolt!"
 
 4
 00:00:11,749 --> 00:00:12,465
@@ -21,7 +21,7 @@ What?
 
 6
 00:00:13,840 --> 00:00:16,621
-Disarm the main gates.
+Disarm the main gates!
 
 7
 00:00:16,880 --> 00:00:17,312
@@ -37,7 +37,7 @@ Oh, got ya'.
 
 10
 00:00:21,218 --> 00:00:24,370
-Hmm, uh, umm... Oh there it is!
+Hm, umm, umm...oh, there it is.
 
 11
 00:00:25,410 --> 00:00:26,843
