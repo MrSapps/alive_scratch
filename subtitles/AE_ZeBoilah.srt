@@ -1,57 +1,51 @@
 1
-00:00:02,240 --> 00:00:02,760
+00:00:02,750 --> 00:00:03,250
 Hey!
 
 2
-00:00:03,251 --> 00:00:04,914
+00:00:04,000 --> 00:00:05,250
 That bastard Abe's here!
 
 3
-00:00:05,114 --> 00:00:08,245
-I demand to know, who is at fault here!
+00:00:05,500 --> 00:00:08,500
+I demand to know: who is at fault here!?
 
 4
-00:00:09,148 --> 00:00:11,120
-You're not pinning this on me.
+00:00:09,500 --> 00:00:11,500
+You're not pinnin' this on me!
 
 5
-00:00:11,302 --> 00:00:15,897
-I'm tellin' ya', it's that Abe guy. Sell it, dump it, lose it, get rid of it!
+00:00:11,750 --> 00:00:16,500
+I'm tellin' ya', it's that Abe guy! Sell, dump it, lose it; get rid of it!
 
 6
-00:00:15,897 --> 00:00:15,942
-Me, I, work hard, I work hard!
-I'm tellin' ya', it's that Abe guy. Sell it, dump it, lose it, get rid of it!
+00:00:16,750 --> 00:00:18,750
+We're gone, we're gone!
 
 7
-00:00:15,942 --> 00:00:18,560
-Me, I, work hard, I work hard!
+00:00:19,000 --> 00:00:20,500
+What if he gets to the boiler!?
 
 8
-00:00:18,748 --> 00:00:20,520
-What if he gets to ZE BOILAH?!
+00:00:20,750 --> 00:00:21,500
+Ze boilah?
 
 9
-00:00:20,548 --> 00:00:21,274
-The boiler...
-
-10
-00:00:21,320 --> 00:00:22,222
+00:00:21,750 --> 00:00:22,250
 The boiler?
 
-11
-00:00:22,280 --> 00:00:23,657
+10
+00:00:22,500 --> 00:00:23,750
 What are we going to do?
 
-12
-00:00:23,690 --> 00:00:24,629
+11
+00:00:24,000 --> 00:00:24,750
 The boiler!
 
+12
+00:00:25,000 --> 00:00:26,500
+WHAT ARE WE GOING TO DO!?
+
 13
-00:00:24,660 --> 00:00:26,365
-What are we going to do?!
-
-14
-00:00:26,514 --> 00:00:27,388
+00:00:26,750 --> 00:00:27,750
 Yeah!
-

@@ -24,7 +24,7 @@ Disarm the main gates!
 
 7
 00:00:10,565 --> 00:00:12,949
-Gotcha, sir. Gotcha.
+Got'cha, sir. Got'cha.
 
 8
 00:00:12,949 --> 00:00:13,792
@@ -37,4 +37,3 @@ Yes, sir!
 10
 00:00:17,600 --> 00:00:19,429
 Man, he is pissed.
-
