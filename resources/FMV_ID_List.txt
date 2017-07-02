@@ -25,10 +25,20 @@ AO_Tr_R1p1p18     = 7
 ---------------
 -- SCRABANIA --
 ---------------
+AO_ScrabScar    = 47
 
 ---------------
 -- PARAMONIA --
 ---------------
+AO_ParamiteScar = 40
+AO_Tr_F1p1p2    = 11
+AO_Tr_F1p2p1    = 2
+AO_Tr_F1p2p5    = 3
+AO_Tr_F1p5p2    = 4
+Ao_Tr_F1p5p6    = 5
+Ao_Tr_F1p6p5    = 6
+Ao_Tr_F1p8p9    = 7
+Ao_Tr_F1p9p8    = 8
 
 ===================
 == ABE'S EXODDUS ==
