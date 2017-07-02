@@ -30,6 +30,8 @@ AO_ScrabScar    = 47
 ---------------
 -- PARAMONIA --
 ---------------
+
+Outside:
 AO_ParamiteScar = 40
 AO_Tr_F1p1p2    = 11
 AO_Tr_F1p2p1    = 2
@@ -39,6 +41,13 @@ Ao_Tr_F1p5p6    = 5
 Ao_Tr_F1p6p5    = 6
 Ao_Tr_F1p8p9    = 7
 Ao_Tr_F1p9p8    = 8
+
+Inside:
+Ao_Tr_F2p1p8 = 1
+Ao_Tr_F2p2p8 = 3
+Ao_Tr_F2p2p8B = 21
+Ao_Tr_F2p4p8B = 25
+Ao_Tr_F2p4p8 = 7
 
 ===================
 == ABE'S EXODDUS ==
