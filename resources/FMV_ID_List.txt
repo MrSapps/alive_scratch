@@ -10,6 +10,13 @@
 -------------------
 -- RUPTURE FARMS --
 -------------------
+AO_StockyardIntro = 4
+AO_Tr_Molluck     = 2
+AO_Tr_R1P18P19    = 3
+AO_Tr_R1P19P18    = 4
+AO_Tr_R1P6P11     = 9
+AO_Tr_R1p18p1     = 6
+AO_Tr_R1p1p18     = 7
 
 -------------------
 -- MONSIAC LINES --
@@ -73,6 +80,11 @@ AE_Tr_MP1C2C1  = 3
 -----------------
 -- FECCO DEPOT --
 -----------------
+AE_BWTrain        = 6
+AE_FeccoMoM1      = 2
+AE_FeccoMoM2      = 3
+AE_SBarracksTrain = 5
+AE_SSBTrain       = 15
 
 ---------------
 -- BONEWERKZ --
@@ -84,10 +96,28 @@ AE_Tr_BWP3P4R = 3
 -------------------
 -- SLIG BARRACKS --
 -------------------
+AE_Tr_BA1114   = 6
+AE_Tr_SBP01C01 = 1
+AE_Tr_SBP01C1R = 2
+UNUSED_BA_BA_MOV_6_AePsxCd2 = 7
 
 -----------------------
 -- SOULSTORM BREWERY --
 -----------------------
-AE_BadEnding  = 18
-AE_GoodEnding = 17
-AE_ZeBoilah   = 13
+AE_BadEnding     = 18
+AE_GoodEnding    = 17
+AE_SSBMoM        = 14
+AE_TearExtractor = 16
+AE_TR_BRP01C01   = 1
+AE_Tr_BRP01C02   = 2
+AE_Tr_BRP01C03   = 3
+AE_Tr_BRP01C04   = 4
+AE_Tr_BRP01C05   = 5
+AE_Tr_BRP01C06   = 6
+AE_Tr_BRP01C1R   = 7
+AE_Tr_BRP01C2R   = 8
+AE_Tr_BRP01C3R   = 9
+AE_Tr_BRP01C4R   = 10
+AE_Tr_BRP01C5R   = 11
+AE_Tr_BRP01C6R   = 0
+AE_ZeBoilah      = 13
