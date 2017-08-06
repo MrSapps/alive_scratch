@@ -1,10 +1,10 @@
 1
 00:00:01,508 --> 00:00:02,817
-<i>Bone production down</i>
+♫<i> Bone production down </i>♫
 
 2
 00:00:03,942 --> 00:00:05,302
-The Magog On the March
+The Magog On the March:
 
 3
 00:00:05,480 --> 00:00:06,582
@@ -24,7 +24,7 @@ It's that Abe guy.
 
 7
 00:00:14,702 --> 00:00:16,188
-First Rupture Farms
+First Rupture Farms,
 
 8
 00:00:16,360 --> 00:00:18,342
