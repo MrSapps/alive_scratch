@@ -2,17 +2,41 @@
 1 = MI
 2 = NE
 3 = PV
+
 4 = SV
 5 = FD
 6 = BA
 7 = SV
+P9 = ender
+P10 = ender
+P11 = ender
+
 8 = BW
+P14 = ender
+P9 = ender
+
 9 = BR
+
 10 = BM
+P1 = ender
+
 11 = PV
+P13 = ender
+
 12 = FD
+P11 = ender
+P14 = ender
+
+
 13 = BA
+P11 = ender
+P16 = ender
+
+
 14 = BW
+P14 = ender
+P9 = ender
+
 15 = TL
 16 = CR
 
