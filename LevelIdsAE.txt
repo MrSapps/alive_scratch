@@ -10,6 +10,7 @@
 P9 = ender
 P10 = ender
 P11 = ender
+P14 = P9 demo
 
 8 = BW
 P14 = ender
