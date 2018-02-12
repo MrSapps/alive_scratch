@@ -32,3 +32,45 @@ BR - brewery
 BW - bone werkz
 CR - credits
 FD - feeco depot
+
+
+mlg man - Today at 12:06 AM
+2,16
+9,12
+11,60
+25,8
+26,128
+30,20
+45,60
+50,180
+54,172
+55,16
+57,16
+60,4
+61,24
+64,80
+65,60
+67,144
+69,216
+78,28
+81,136
+84,60
+89,104
+96,120
+99,8
+102,4
+104,40
+105,56
+112,160
+113,16
+122,8
+125,164
+126,120
+129,44
+136,16
+142,12
+143,24
+148,16
+(edited)
+id, size
+i had to do those by hand cause just calling the function is no go without a valid object
