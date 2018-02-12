@@ -15,3 +15,20 @@
 14 = BW
 15 = TL
 16 = CR
+
+PSX "main" LVL locations:
+
+Cd1
+MI - mines
+NE - necrum
+PV - paramite vaults
+ST - menu
+SV - scrab vaults
+
+Cd2
+BA - barracks
+BM - game ender
+BR - brewery
+BW - bone werkz
+CR - credits
+FD - feeco depot
